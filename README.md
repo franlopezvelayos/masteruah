@@ -12,8 +12,8 @@
 
 ### Tabla
 
-|    NOMBRE               |                  GITHUB                           |
-|-------------------------|--------------------------------------------------:|
-| Nombre del compañeros 1 | [enlace a github 1] (https://)                    |
-| Nombre del compañeros 2 | [enlace a github 2] (https://)                    |
-| Nombre del compañeros 3 | [enlace a github 3] (https://)                    |
+|    NOMBRE               |                  GITHUB                          |
+|-------------------------|-------------------------------------------------:|
+| Nombre del compañeros 1 | [enlace a github 1](https://)                    |
+| Nombre del compañeros 2 | [enlace a github 2](https://)                    |
+| Nombre del compañeros 3 | [enlace a github 3](https://)                    |
